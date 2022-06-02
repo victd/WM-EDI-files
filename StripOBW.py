@@ -54,6 +54,7 @@ f2.close()
 
 
 # CHANGE THIS DOCX FILE FOR THE DIVISION ----------------------------
+# looks like only Toronto division has the mixed lines issue
 
 #doc.save('WT-OBW.txt')
 
