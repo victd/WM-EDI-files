@@ -14,7 +14,7 @@ doc = docx.Document()
 
 # CHANGE THIS TEXT FILE FOR THE DIVISION ----------------------------
 # Refer to the TRUX EDI extract template for the fields in csv format
-# for future revisions, see
+# for future revisions, see WM EDI extract
 # third party company disclosure not needed as appears to be standard trux template
 
 f = open("WT.txt", "r")
