@@ -16,6 +16,7 @@ doc = docx.Document()
 # Refer to the TRUX EDI extract template for the fields in csv format
 # for future revisions, see WM EDI extract
 # third party company disclosure not needed as appears to be standard trux template
+# trux disclosure
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
