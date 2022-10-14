@@ -17,6 +17,7 @@ doc = docx.Document()
 # for future revisions, see WM EDI extract
 # third party company disclosure not needed as appears to be standard trux template
 # trux disclosure
+# conforms to a pattern yes no
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
