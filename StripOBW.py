@@ -18,6 +18,7 @@ doc = docx.Document()
 # third party company disclosure not needed as appears to be standard trux template
 # trux disclosure
 # conforms to a pattern yes no
+# strips OBW but need to distinguish from Roll Off bins, keep the weights on RO bins
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
