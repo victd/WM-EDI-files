@@ -19,6 +19,7 @@ doc = docx.Document()
 # trux disclosure
 # conforms to a pattern yes no
 # strips OBW but need to distinguish from Roll Off bins, keep the weights on RO bins
+# the EDI extract format, each field, does not distinguish type of weight
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
