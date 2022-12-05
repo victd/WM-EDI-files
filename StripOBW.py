@@ -22,7 +22,7 @@ doc = docx.Document()
 # the EDI extract format, each field, does not distinguish type of weight
 # will need to join tables at the service level first
 # we get feedback from Oakleaf, it will be 2-3 months behind as they process the data on their end
-# active directory connect issue
+# active directory connect sync issue
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
