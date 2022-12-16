@@ -22,6 +22,7 @@ doc = docx.Document()
 # the EDI extract format, each field, does not distinguish type of weight
 # will need to join tables at the service level first
 # we get feedback from Oakleaf, it will be 2-3 months behind as they process the data on their end
+# some consolidated billing stores may have trouble distinguishing sites under the same storeID
 # active directory connect sync issue
 
 f = open("WT.txt", "r")
