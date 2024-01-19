@@ -26,6 +26,7 @@ doc = docx.Document()
 # prefer to be under separate site billing
 # active directory connect sync issue azure, kayak, stand up paddle
 # divide and conquer to resolve cumulation of issues, folder mappings
+# elevator and hvac service
 
 f = open("WT.txt", "r")
 f2 = open("WT-stripped.txt", "w")
